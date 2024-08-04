@@ -2,7 +2,7 @@
 
 Welcome to the Modern UI Calculator project! This repository contains the source code and resources for building a stylish and functional calculator using Python and Tkinter. Perfect for beginners and intermediate developers, this project demonstrates modern UI design principles and Python programming techniques.
 
-![Modern UI Calculator](path-to-screenshot.png)
+![Modern UI Calculator](tkinter-calculator.png)
 
 ## Features
 
