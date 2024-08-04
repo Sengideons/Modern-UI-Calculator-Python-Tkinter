@@ -34,12 +34,12 @@ This project is intended for educational purposes. Feel free to modify and enhan
 [The complete source code for this project can be found here.](https://buymeacoffee.com/sengideons/e/281631)
 
 **Contact**
-📺 **YouTube:**  https://www.youtube.com/@SenGideons
-📈 **Tiktok:**  https://www.tiktok.com/@sengideons
-🐦 **Twitter:**  https://www.twitter.com/sengideons
-📸 **Instagram:** https://www.instagram.com/sengideons
-📘 **Facebook:** https://www.fb.com/SenGideonsOfficial
-🔗 **Website:** https://www.sengideons.com 
+- 📺 **YouTube:**  https://www.youtube.com/@SenGideons
+- 📈 **Tiktok:**  https://www.tiktok.com/@sengideons
+- 🐦 **Twitter:**  https://www.twitter.com/sengideons
+- 📸 **Instagram:** https://www.instagram.com/sengideons
+- 📘 **Facebook:** https://www.fb.com/SenGideonsOfficial
+- 🔗 **Website:** https://www.sengideons.com 
 
 Python, Tkinter, GUI, Calculator, Modern UI, Python Projects, Python GUI, Coding, Programming, Open Source, Tutorial
 
